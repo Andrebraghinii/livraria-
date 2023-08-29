@@ -29,7 +29,6 @@ main {
     padding: 20px;
     overflow: hidden;
 }
-
 .card {
     width: calc(33.33% - 20px);
     margin: 10px;
@@ -39,12 +38,10 @@ main {
     text-align: center;
     float: left;
 }
-
 .card img {
     max-width: 100%;
     height: 300px;
 }
-
 .card button {
     background-color: #333;
     color: #fff;
@@ -54,11 +51,9 @@ main {
     cursor: pointer;
     transition: background-color 0.3s ease;
 }
-
 .card button:hover {
     background-color: #555;
 }
-
 footer {
     background-color: #333;
     color: #fff;
